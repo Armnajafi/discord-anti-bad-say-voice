@@ -18,7 +18,7 @@ discord-speech-recognition is set in Persian language for change Follow the step
 
 ## Requires 
 
-discord.js@12.5.3 <br>
+discord.js@latest <br>
 
 ## Report Bug
 
